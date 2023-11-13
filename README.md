@@ -49,6 +49,6 @@ Python 3.10.4
 
 ### Link
 
-* [GitHub](https://github.com/d1mav0lk0v/)
+* [GitHub](https://github.com/d1mav0lk0v/random_hypersphere_hyperball)
 
 ---
